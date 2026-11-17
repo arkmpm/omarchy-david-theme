@@ -1,0 +1,38 @@
+# David — Vantablack chrome (pure black, white text, grey 2px square borders)
+# with bright teal + purple accents, over a glowing white David (The Backwater as the alternate).
+mode = "dark"
+
+accent = "#2dd4bf"
+selection = "#16302c"
+muted = "#7a7a7a"
+
+background = "#000000"
+dark_background = "#090909"
+darker_background = "#050505"
+lighter_background = "#141414"
+
+foreground = "#ffffff"
+dark_foreground = "#505050"
+light_foreground = "#ececec"
+bright_foreground = "#ffffff"
+
+hyprland_active_border = "rgb(8d8d8d)"
+hyprland_inactive_border = "rgb(3a3a3a)"
+active_border_color = "#8d8d8d"
+active_tab_background = "#1a1a1a"
+
+red = "#e06c75"
+yellow = "#e5d4a1"
+orange = "#d9a066"
+green = "#8fd19e"
+cyan = "#2dd4bf"
+blue = "#2dd4bf"
+magenta = "#7b31fc"
+brown = "#5c5c5c"
+
+bright_red = "#ff8a92"
+bright_yellow = "#f5e6b8"
+bright_green = "#a8e6b4"
+bright_cyan = "#5eead4"
+bright_blue = "#7b31fc"
+bright_magenta = "#8e61ff"
